@@ -1,0 +1,26 @@
+<faturamento>
+    <dia>
+        <data>2025-01-01</data>
+        <valor>67836.43</valor>
+    </dia>
+    <dia>
+        <data>2025-01-02</data>
+        <valor>36678.66</valor>
+    </dia>
+    <dia>
+        <data>2025-01-03</data>
+        <valor>29229.88</valor>
+    </dia>
+    <dia>
+        <data>2025-01-04</data>
+        <valor>27165.48</valor>
+    </dia>
+    <dia>
+        <data>2025-01-05</data>
+        <valor>19849.53</valor>
+    </dia>
+    <dia>
+        <data>2025-01-06</data>
+        <valor>0</valor>
+    </dia>
+</faturamento>
